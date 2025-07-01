@@ -79,6 +79,10 @@ Output: Model summaries, metrics, regression plots
 → Run classification_and_pca.R using classification-related files
 Output: PCA results, classification accuracy and confusion matrix
 
+### 📊 Visualized Findings
+The insights and findings are summarised and visualized using various charts in the ``` Summarized Findings.pptx ``` file
+
+#### Additional Information:
 - Raw data files are included in the country-wise-data folder
 - Cleaned versions of the data are included in clean-data folder
 
