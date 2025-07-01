@@ -79,6 +79,6 @@ Output: Model summaries, metrics, regression plots
 → Run classification_and_pca.R using classification-related files
 Output: PCA results, classification accuracy and confusion matrix
 
-- Raw data files are included in the country-data folder
+- Raw data files are included in the country-wise-data folder
 - Cleaned versions of the data are included in clean-data folder
 
