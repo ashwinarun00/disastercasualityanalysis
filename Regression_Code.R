@@ -16,7 +16,7 @@ library(gridExtra)
 library(ggcorrplot)
 
 # Load the data
-df <- read_excel("C:/Users/mm23g24.SOTON/Downloads/model_data_2.xlsx")
+df <- read_excel("model_data.xlsx")
 
 # Columns to remove
 columns_to_remove <- c("duration_binned", "Updated.Event.Name", "Country", "Continent", 
